@@ -574,7 +574,7 @@ Any Gang fighter may perform the following action if they're in base contact wit
 
 
 
-# Pit Fight
+# (Downtime) Pit Brawl
 
 The Enforcers have organized a bit of friendly sport for a thirsty underhive!
 
