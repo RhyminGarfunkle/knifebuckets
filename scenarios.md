@@ -1,18 +1,6 @@
 # Scenarios
 
-# Selecting a Scenario
-
-For battles over territories, roll 2D6 to determine the scenario played for the battle.
-
-| Roll  | Result         |
-|-------|----------------|
-| 2-3   | Gang Moot      |
-| 4-5   | The Trap       |
-| 6-8   | Stand-Off      |
-| 9-10  | Ambush!        |
-| 11-12 | Escort Mission |
-
-Other battles will have the scenario dictated by the reason for the battle.
+Different battles will be fought using different scenarios. The scenario dictates things like how fighters are deployed, and what each gang's goal is, along with any special rules unique to the scenario.
 
 # Scenarios Explained
 
@@ -91,8 +79,71 @@ Many scenarios will have special rules. These will be listed and described in th
 
 # Scenario List<!-- {docsify-ignore} -->
 
+# Invasion - the First Battle :id=scenStandOff
 
-# Stand Off
+All players participate in the first battle! Make it out with as many Loot Caskets as you can grab, to start your campaign off on a solid footing.
+
+In this battle a number of crates/caskets are placed on the board. Some contain credits, while others contain equipment, potentially rare and valuable! Each gang's main goal is to carry off as many caskets as possible. If you can take down a few opposing members on the way all the better, but remember: if you get too caught up in the fighting, someone else could steal your crates right out from under you!
+
+### Battlefield<!-- {docsify-ignore} -->
+
+Standard setup with the Slums type terrain.
+
+### Crews<!-- {docsify-ignore} -->
+
+Custom Selection (7)
+
+### Tactics Cards<!-- {docsify-ignore} -->
+
+[Standard.](#standardtactics) Since there has not yet been an End of Week to create decks of Tactics Cards, players may immediately create a deck of six of more cards from their starting options, then draw two from that.
+
+### Deployment<!-- {docsify-ignore} -->
+
+[Standard.](#standarddeployment)
+
+Before any player deploys their fighters, players must first place the Ammo and Loot caskets that they will fight over on the board.
+
+To determine the number of Ammo and Loot Caskets to place, multiply the number of players in the campaign by three, then divide that number by two (rounding down). Place that many of each type of casket.
+
+> For example, if you have four players, you would use (4 players * 3) / 2 = 6 Ammo and 6 Loot caskets.
+
+Before deploying, but after placing terrain, players will take turns placing the Loot Caskets, one at a time, on the map. Caskets may be placed anywhere more than ten inches from any deployment point, anywhere a fighter may be placed. After all Loot Caskets are placed, players will similarly place all Credit Caskets.
+
+Once all crates/caskets are placed, players deploy their fighters as usual.
+
+### Objectives<!-- {docsify-ignore} -->
+
+There are no winners or losers in this first battle! Each gang is just trying to claim as much loot as possible for themselves. However, if two gangs have their eye on the same crate, there might not be a peaceful way to reconcile their differences...
+
+Claim a crate by having a fighter carry it to within 1 inch of any edge of the map. The fighter no longer participates in this battle (but does not count as OOA for bottle checks) and the controlling player takes the casket, to be processed after the battle.
+
+### Ending the Battle<!-- {docsify-ignore} -->
+
+The battle ends immediately when there is only a single gang left on the board. That gang automatically claims all caskets within 2 inches of any fighters they have left on the board. 
+
+All caskets more than 2 inches from a fighter are lost. There's no time to grab them - the Enforcers have been watching the battle, and now that the heat's died down, they're finally moving in to "keep the peace"!
+
+### Victory<!-- {docsify-ignore} -->
+
+There is no victor in this scenario. Alternatively, every player is a winner in this scenario!
+
+### Rewards :id=invasionrewards <!-- {docsify-ignore} -->
+
+For each Loot casket claimed, the gang gains 2D6x10 credits. 
+  
+For each Credit casket, roll on the [Ammo Crate Table](tables.md#crates), and add the resulting equipment to your gang's Stash.
+
+### Experience<!-- {docsify-ignore} -->
+
+All fighters that claimed a casket for their gang (by carrying it to the edge of the map) gain D3 XP, in addition to the usual participation XP (given out in the Post-Battle phase)
+
+### Reputation<!-- {docsify-ignore} -->
+
+All gangs gain 1 reputation for each casket their gang claimed.
+
+
+
+# Stand Off :id=scenStandOff
 
 A straight-up, no-frills fight between two or more gangs. Be the last one standing!
 
@@ -142,7 +193,7 @@ The leader of the victorious gang receives D3 XP, regardless of whether or not t
 
 
 
-# The Trap
+# The Trap :id=scenTheTrap
 
 A gang caught unawares tries to stand their ground!
 
@@ -203,7 +254,7 @@ During the first round, roll a **Cool Check** for each fighter (attacker and def
 
 
 
-# Ambush!
+# Ambush! :id=scenAmbush
 
 A gang is caught outgunned and unawares! Sometimes running away is the best option.
 
@@ -284,7 +335,7 @@ During the first round, make a Cool check for every fighter (Attacker and Defend
 If using Tower terrain, Defending fighters that Plummet **automatically fail** their initiative check.
 
 
-# Escort Mission
+# Escort Mission :id=scenEscortMission
 
 Some fancypants rich kid playing Ganger made some enemies and wants to go home. Their parents have contracted a gang to escort them back Uphive.
 
@@ -355,7 +406,7 @@ The Uphiver has the following stats:
 The Uphiver is equipped with a laspistol, mesh armor, and a displacer field. They have the Spring Up skill.
 
 
-# Gang Moot
+# Gang Moot :id=scenGangMoot
 
 Surely we can solve our differences without resorting to bloodshed?
 
@@ -417,7 +468,7 @@ When a fighter makes a Shoot action, unless their weapon has the **Silent trait*
 **FEELIN' FROGGY:** In the first round, before activating any fighters, all players take turns in priority order making **Cool checks** for their leaders. The first player to **fail** this cool check gets to activate their Leader - play then proceeds in Priority order, as usual.
 
 
-# Rescue Mission
+# Rescue Mission :id=scenRescueMission
 
 One of your fighters was taken captive - it's time to take them back! This scenario can only be played if another player's gang has taken captives. This mission uses the special Sneak Attack rules, the gang rescuing captives are always the attacker.
 
@@ -487,7 +538,7 @@ Non-Captive Attacking fighters may make the following action:
 A captive that is Freed gains a Ready marker at the start of the next round and can be activated as usual. They also have access to all equipment on their Fighter Card (assume their rescuer brought it with them).
 
 
-# (Downtime) Precinct Assault
+# (Downtime) Precinct Assault :id=scenPrecinctAssault
 
 Time to put some representation to that taxation!
 
@@ -538,15 +589,19 @@ Eliminate the other team!
 Enforcer players play according to the [Enforcer rules](enforcers.md)*, as though all Gang players were **debtors.** The player controlling the Enforcers may be tempted to go easy on the Gang players, but remember, if they're successful they will receive massive rewards - rewards **you won't get any part of.** 
 
 > *Ignore the "Arrests" enforcer rule. Enforcers are fighting for their lives, so roll permanent injuries as usual. If Enforcers win the scenario they will make arrests via the standard Captive post-battle rules, with the following modification: 
---Instead of taking a single captive, subtract 11 from the final number result, and divide this by 2 (rounding up). Take that number of captives. For example, if the number of Possible Captives + Final Gang Fighters + 1d6 were 16, Enforcers would arrest 3 gang members. Evenly divide the arrests across all allied gangs, rolling off for remainders.
+> - Instead of taking a single captive, subtract 11 from the final number result, and divide this by 2 (rounding up). Take that number of captives. For example, if the number of Possible Captives + Final Gang Fighters + 1d6 were 16, Enforcers would arrest 3 gang members. Evenly divide the arrests across all allied gangs, rolling off for remainders.
 
 ### Ending the Battle<!-- {docsify-ignore} -->
+
+The battle will automatically end in the end phase of round Eight, before recovery tests.
 
 If at any point only one gang has fighters left on the battlefield, or no gang has fighters remaining, the battle immediately ends.
 
 ### Victory<!-- {docsify-ignore} -->
 
 The last side remaining is the victor!
+
+If the battle lasts until the end phase of round Eight and there are still Enforcers on the board, reinforcements have arrived! The battle automatically ends in victory for the Enforcers. Remove all gang players from the board - if any were Seriously Injured, they are automatically resolved as Out of Action in the post-battle sequence.
 
 ### Rewards<!-- {docsify-ignore} -->
 
@@ -556,25 +611,31 @@ If the Enforcers win, resolve as shown under ["I fought the Law and... the Law W
 
 ### Special Rules <!-- {docsify-ignore} -->
 
-**JAILBREAK:** Gang fighters deployed inside the jail cell may attempt to break through the locked cell door to assault the Precinct from the inside. Fighters fighter in base contact with the door may attempt to hack it from inside by making an **"Access Terminal (Basic)"** action with a **-4 penalty instead of -2.** They may also attempt to open the door by forcing it, but this door is specially reinforced - **"Force Door (basic)"** requires a total score of **11** instead of 9.
+>**Special Priority Order:** If there are three or more players allied against the Enforcers, Enforcers act between each gang player; turn order goes Enforcers, Player A, Enforcers, Player B, etc. This is to prevent the gang players from effectively having unlimited group activations between each Enforcer action, or the Enforcers having unlimited group activations after all Gang players have gone.
 
-If the map goes **Pitch Black**, that means the power has been cut. In this circumstance the door cannot be hacked, but may be forced, requiring the **usual 9** score instead of 11.
+>**PRIORITY PREPARATION:** The Enforcers have priority each round. For the purposes of special cards or abilities that influence priority order, assume that the Enforcer player rolled a 6 for all priority checks.
 
-This door is just as hard to force open from outside, but using "Access Terminal" at the door's terminal is the usual action with **no additional penalty.**
+>**JAILBREAK:** Gang fighters deployed inside the jail cell may attempt to break through the locked cell door to assault the Precinct from the inside. Fighters fighter in base contact with the door may attempt to hack it from inside by making an **"Access Terminal (Basic)"** action with a **-4 penalty instead of -2.** They may also attempt to open the door by forcing it, but this door is specially reinforced - **"Force Door (basic)"** requires a total score of **11** instead of 9.
+>
+>If the map goes **Pitch Black**, that means the power has been cut. In this circumstance the door cannot be hacked, but may be forced, requiring the **usual 9** score instead of 11.
+>
+>This door is just as hard to force open from outside, but using "Access Terminal" at the door's terminal is the usual action with **no additional penalty.**
 
-**ACCESS CODES:** Because the Enforcers are Defenders, they treat all Locked doors as Unlocked. If they use "Access Terminal" to open or close a door, their Int check has no penalty.
+>**ACCESS CODES:** Because the Enforcers are Defenders, they treat all Locked doors as Unlocked. If they use "Access Terminal" to open or close a door, their Int check has no penalty.
 
-**GLOBAL CONTROL TERMINAL:** Any Enforcer fighter may perform the following action if they're in base contact with the Global Control Terminal:
-- **DOOR ACCESS (Basic):** Open or close any one Precinct door, except the Cell door.
+>**GLOBAL CONTROL TERMINAL:** Any Enforcer fighter may perform the following action if they're in base contact with the Global Control Terminal:
+>- **DOOR ACCESS (Basic):** Open or close any one Precinct door, except the Cell door.
+>
+>Any Gang fighter may perform the following action if they're in base contact with the Global Control Terminal:
+>- **DOOR HACK (Basic):** Perform an Int check with a -2 modifier. If successful, open or close any one Precinct door, including the Cell door.
 
-Any Gang fighter may perform the following action if they're in base contact with the Global Control Terminal:
-- **DOOR HACK (Basic):** Perform an Int check with a -2 modifier. If successful, open or close any one Precinct door, including the Cell door.
+>**FINAL STAND:** The Enforcers are making their final stand. They will **automatically pass all bottle checks** as long as there is a **Captain or Sergeant** (Palanite Enforcer/Subjugator Leader or Champion) on the board. Once all Captains or Sergeants have been defeated, the gang automatically bottles out, and remaining enforcers have a -2 to their bottle check cool tests.
 
-**FINAL STAND:** The Enforcers are making their final stand. They will **automatically pass all bottle checks** as long as there is a **Captain or Sergeant** (Palanite Leader and Champion) on the board. Additionally, all Enforcers have +2 LD for the purposes of bottle checks.
-
+> **FORTIFIED BASE:** The Precinct has been fortified and armored against incursions. Skills, tactics cards, or any other rule-modifying ability that allow for deployment outside the standard deployment zone, or outside the Deployment phase, may not be used to deploy any fighters inside the Precinct walls.
 
 
-# (Downtime) Pit Brawl
+
+# (Downtime) Pit Brawl :id=scenPitBrawl
 
 The Enforcers have organized a bit of friendly sport for a thirsty underhive!
 

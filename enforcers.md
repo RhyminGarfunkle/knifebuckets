@@ -2,7 +2,7 @@
 
 Enforcers don't much mind gang activity on their turf - they mind not getting their cut. If any player is unable (or unwilling!) to pay their "taxes" during the campaign, the Enforcers might pay them a visit during their next battle!
 
-If a player starts a battle in debt to the Enforcers, roll 1d6 every round after the first, before placing ready markers. If more than one gang participating in the battle is in Debt, subtract 1 from the roll for each additional gang in Debt. 
+If a player starts a battle **in debt** to the Enforcers, roll 1d6 every round after the first, before placing ready markers. If more than one gang participating in the battle is in Debt, subtract 1 from the roll for each additional gang in Debt. 
 
 On a two or less the Enforcers show up!
 
@@ -58,7 +58,7 @@ In the event that the Enforcers bottle out, or are wiped out, several things may
 What happens next depends on the other gang. If other gangs remain on the board that *did not* team up with the Debtors, resolve the scenario as usual. Otherwise, the Debtor, and any gangs that agreed to team up with them (even if they involuntarily bottled out), raid the now-empty precinct: 
 
 - All prisoners are freed! Each raiding gang recruits 1 ganger or 1 juve from this riff-raff for free. They come with no equipment but during Post-Battle they may be equipped with any gear from their gang's house list (paying the usual house price) or the gang's stash. They may immediately be used in the next battle. Any fighters previously arrested by Enforcers are returned to their gangs.
-- There are 4 Ammo Crates and 4 Supply Crates in the precinct. These are split evenly among the participating gangs, and resolved the same as the First Scenario. Roll off if even distribution isn't possible.
+- There are 4 Ammo Crates and 4 Supply Crates in the precinct. These are split evenly among the participating gangs, and resolved the same as the [Invasion Scenario](tables.md#crates). Roll off if even distribution isn't possible.
 - If this battle was fought over a territory, roll a D6: 
 | Roll | Result                                                                                                                                                                                                                                                                                                           |
 |------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

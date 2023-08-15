@@ -1,95 +1,85 @@
-# Overview
+# Introduction
 
-The death of Knifebuckets has left a power vacuum in the Underhive! Newly unclaimed riches await any upstart gang willing to reach out and take them. Just don't forget your position - Knifebuckets had a cushy understanding with the local Enforcers, and they expect whoever comes next to keep the juice flowing.
+Knifebuckets is a home-brewed campaign for a popular Underhive Skirmish Game. It's a heavy modification of the basic Dominion campaign, modified in an attempt to accomplish the following goals:
 
-The campaign is divided into 13 weeks. Unlike traditional Necromunda campaigns, these are in-game weeks, not real-world weeks, played out in group sessions. These weeks are divided into Invasion (1 week), Occupation (5 weeks), Downtime (1 week), and Takeover (6 weeks). Invasion is the first battle, with each gang duking it out to grab starting resources for themselves. During Occupation, gangs expand into new territory, battling each other for the juiciest bits. During Downtime, gangs may take on some extra work. During Takeover, gangs start to butt in on each other's turf, taking from each other instead from the Hive. 
-  
-During the week, all players have a single Challenge, and half the players have Leads. Players with Leads select a territory to attempt to take over, and other players may use their Challenges to try to take that territory for themselves.
+- Increase accessibility for players who have other hobbies and time commitments. Most players shouldn't need to buy anything except a single box of ten miniatures!
+- Be fun for a small group of players, in our case four.
+- Be playable by the entire gaming group simply coming together once a week
+- Allow every battle to accommodate more than two players
+- Eliminate the need for an external arbitrator
+- Focus on improving and advancing your gang's fighters, instead of simply buying new and better fighters.
+- Let the game take itself slightly less seriously
 
-Fighter advancements, visits to the Trading Post, wound recovery, and other actions happen at the end of each in-game week.
+Knifebuckets features huge XP gains - fighters often receive enough XP to advance from a single battle! Advancements are semi-random, providing organic growth and a minimal amount of min-maxing, while still giving control over the general direction of your gang. 
 
-During the Downtime phase, players recuperate, and up to three players have the option of working together to permanently put down the Enforcers.
+**Advancements are the primary way of getting highly skilled and valuable fighters.** In fact, after gang creation, you may only hire Gangers and Juves. Champions may be hired if all existing Champions have been killed, but all of our gangs have promoted a Juve to a Champion before that happened!
 
-# Invasion
+Frequent advancements are balanced out with more limited Trading Post access, and a per-territory taxation system courtesy of the Enforcers.
 
-The first week of the campaign has only a single battle, the First Scenario. No captives may be taken in this battle. After it's been fought, the week immediately ends and players move on to the End of Week. The next week is Week 2, the first week of the Takeover phase.
+Additionally, Knifebuckets addresses some of my personal dissatisfaction with the increasingly "serious" and "gritty" and worst of all "expensive" tone that's being taken with the official Underhive Skirmish Game. This is a game about toddler-brained muscle men punching cranked-out parkour Amazonians while cackling trash priests set everything on fire, and the only hairstyle is "mohawk" - why are we spending any time talking about house politics? Why do my friends need to buy three boxes of miniatures, two books, and $150 worth of FW minis just to play it with me?
 
-# The Week
-At the start of the week during *Occupation* and *Takeover* phases, a number of **Leads** are generated, equal to half the number of players (rounded up). To generate leads, all players roll off. The highest roller gets the first **lead**, the second highest the second, etc. Draw a number of territory cards equal to the number of **leads plus one**, face up. If a player doesn't have a **Lead** this week, their only chance for a territory is to *challenge* someone.
+Most players will only need to purchase a single box of gang miniatures.
 
-Each player starts the week with one **Challenge**, including players with Leads.
- The player with the current lead is called the **Knife** (because they're about to cut off a piece for themselves!). The Knife either selects a territory, or passes.
- After the Knife picks a Territory, any player who has a *Challenge* may spend it to challenge the Knife for control of that territory. All players with a *Challenge* to spend declare if they wish to fight over the territory or not - if no players challenge, the the Knife immediately takes the territory and either the next player with a Lead becomes the new Knife and selects a territory, or the week ends if there are no more Leads. If one or more players wish to fight over the territory, those players lose their *Challenge* and engage in a Battle to determine who takes control of the territory!
+However, **at least one player will need to invest in terrain, and some additional miniatures,** in addition to the box of miniatures representing their gang. MDF terrain can be purchased at a steep discount from plastic - $200 of MDF terrain can provide as rich a play experience as several thousand dollars worth of plastic terrain. Many players enjoy simply playing on stacked together books and Lego!
 
-> The maximum number of gangs that can participate in a battle over territory is the total number of players minus one. The player(s) not participating in the battle act as Arbitrator, and may sometimes play an additional non-gang faction in the battle.
->
-> If all four players wish to participate in a battle over a territory, give preference to players who don't have a Lead.
+As written in these campaign rules, the Enforcers are not a player-controlled gang - they are a balancing element, enforcing the taxation system, and at times providing a common enemy for all players to work against. When they show up, players who's gangs are not part of the battle will be responsible for playing the Enforcers. Keep this in mind if a player wishes to play as an Enforcer gang - there's no reason that they couldn't play using the rules of any other gang in the Knifebuckets campaign, but you'll probably want to at least make sure they have a different color scheme!
 
-> Generally, players who do not have a Lead for the week may only participate in one battle, the one they spend their Challenge on. Players with a Lead may participate in two battles, one they pick as the Knife, and another they spend a Challenge on.
+Enforcers for our campaign were created from one box of 10 Palanite Enforcers, and one sprue of 3 Subjugators, plus 3 Hardcase Cyber-Mastiffs (there are many excellent and appropriate third-party robot dog miniatures available online), for a total of 16 fighters.
 
- If any gang participating in the battle is in **Debt**, pick and set up a scenario as usual. After the entire first round is played, implement the [Enforcer Intervention rules](enforcers.md).
- When the battle is over, whoever was the **Victor** (according to the rules of the Scenario) receives the territory. Unless otherwise specified by the scenario, if there was no single victor, the territory does not change hands.
- If the Knife passes, they essentially move their Lead to last place: all other players with Leads may select territories, receive Challenges, etc. The next time their Lead comes up, they **must** pick a territory: your gangers can smell cowardice, and refusing a chance to expand is a great way to wake up with a slashed throat!
- After each battle, victorious gangs may take captives, and critical injuries are treated. Other post-battle actions occur at the End of the Week. See the Post-Battle rules for details.
+Players may omit the Enforcers entirely from the campaign, but they provide a significant leveling element, especially in the first half of the campaign. Omitting the Enforcers may lead to some players gaining early insurmountable leads over everyone else.
 
-# Downtime
+Alternatively, players may wish to keep the Enforcer's "Taxes" to level the playing field, but not have them as an in-battle element. In this case, simply force all players to pay their full "taxes" in the End of Week, and don't offer the Precinct Assault scenario during Downtime.
 
-Between the **Occupation** and **Takeover** phases is **Downtime**. After the final Occupation **End of Week**, calculate the new Underdog status, then:​ 
-1. All fighters in **Recovery** are immediately restored.
-2. All captives, including those held by Enforcers, are returned to their gangs. 
-3. All fighters receive 2D6 experience. 
-4. All gangs with an **Underdog (X)** status receive 150 x **(X)**. These credits must be spent immediately on fighters and equipment - any unspent credits are lost, not placed in the gang's stash. These credits may be supplemented by credits in the stash, which are not lost.
-​
-In the game-week between **Occupation** and **Takeover**, normal battles over territory do not occur. If they wish, players may band together to take down the Enforcers once and for all - any number of players may band together in a Formal Alliance and play the Precinct Assault scenario (one player must be the Enforcers in this case - if all players in the campaign wish to enter the Alliance, roll off to see who will control the Enforcers).
+Hired Guns may use any appropriate miniature. Fighter Cards for your Hired Guns may be taken from official sources, or you can use the Hired Guns here, or make your own!
 
-If no players wish to engage the Enforcers, players play the special Pitfight scenario. Participation in this battle isn't mandatory, but if only one player participates they win by default.
+# Vehicles and the Ash Wastes
 
-After the special Downtime scenario is played, there is another End-of-Week (resolved as usual) then the **Takeover** phase begins.
+The Knifebuckets campaign contains **no scenarios or provisions for playing in the Ash Wastes.**
 
-# Takeover
+While the Mad Max-style car wars of the Ash Wastes certainly sound rad as heck, this campaign is focused on accessibility - vehicles provide a whole extra set of complex rules on top of an already massively complex game, in addition to a whole bunch of big, expensive models to purchase, assemble, and paint.
 
-At the start of Week 7 the Takeover phase begins. The Takeover phase is played much like the Occupation phase. Players roll for leads, and if there are any unclaimed Territories remaining, these are drawn at the start of the week like in the Occupation phase. 
-  
-In addition to unclaimed territory cards, during Takeover the Knife may pick a territory card already claimed by another player! In this case, the player who controls the territory automatically Challenges and takes part in the battle, even if they've already spent their Challenge this week. Other players may spend a Challenge to join the fight for that territory. The MAX GANGS rule remains in effect.
+# Recommended Gangs
 
-# Special Battles
+It's recommended that players new to the Underhive Skirmish Game stick to one of the six "House" gangs - **Goliath, Escher, Orlock, Van Saar, Delaque, and Cawdor.** This is simply for ease of play, as those gangs all have very clear and obvious rules for things like gang composition, tactics cards, item availability, etc.
 
-## Captive Recovery
+If someone *really* wants to run Squats, Gene Stealer Cults, Nomads, or any other non-House gang, it's recommended that they spend some time studying the rules to this game (core rules, fighter skills, tactics cards, and this campaign) and put in significant thought as to how they'll incorporate their chosen gang into this Campaign - for example, what tactics cards will they use for their starting deck? If playing Nomads, how will they use their gang's skills, which are largely tied to scenarios played in the Ash Wastes?
 
-If one player has **Captured** another player's fighter(s), at the end of the week (before performing the End of Week actions) the captured fighter's gang (Rescuer) may challenge the capturing gang (Captor). The Rescuer does not need a Challenge to do this.
+Non-house gangs are certainly possible in Knifebuckets, but they will require careful consideration on the part of those gang's players to ensure a fun gaming experience for all players.
 
-If the Captor declines, the hostage is immediately returned. If the Captor accepts, the Rescuer and Captor play the **Rescue Mission** scenario. If the Rescuer refuses to challenge, the Captor may do with their Captive as they please during the End of Week (options include selling the fighter, putting them to work in a territory, or permanently maiming the fighter).
-​ 
-It's rare that gangs get so desperate that they ask another for help, but captive rescue is one of those times. A gang may hire another gang to help and enter into a Formal Alliance with them for the duration of the Rescue mission. They may negotiate the payment between them.
+# On WYSIWYG
 
-> Payment for help with a hostage rescue may include credits, territories, weapons and wargear, or even real-world rewards outside the game!
+Knifebuckets focuses on advancing those fighters who are already in your gang. In addition to lots of experience and advancements, you can change all of your fighters loadouts periodically, either with stuff in the stash, rare item obtained in special missions, or black-market goodies from the Trading Post. If advancements give a fighter better WS than BS, you'll likely want to trade in their sniper rifle for a chainsword!
 
-If a single gang has captives from multiple other gangs, those gangs may work together to rescue their fighters. If all Rescuers agree, they may form a Formal Alliance that lasts for the single scenario.
+Some players are extremely attached to WYSIWYG (What You See Is What You Get, typically pronounced Wissy-Wig) modeling of their fighters, where the items on the fighter's model perfectly match with the items on the fighter's card. This becomes extremely difficult to do when fighters frequently change equipment.
 
-There are certain other special battles that may be undertaken during the campaign.
+While the preference will come down to each group, our group chose to abandon WYSIWYG entirely. Each model represents a particular fighter, but the equipment the model is holding may have nothing to do with what the fighter is actually equipped with. We found that as fighters advanced, we wanted to recognize who was who, not who's holding what - it's better to know at a glance which Goliaths have 6 Toughness, or which Van Saars have 2+ BS even in partial cover, than who's carrying the big gun.
 
-## Precinct Assault
+Instead of WYSIWYG, we simply ask our fellow players, "What's this guy equipped with?"
 
-During Downtime, players may band together to attempt to take on the Enforcers once and for all! Winning this battle will mean the permanent elimination of taxes from the remainder of the campaign. Failure will mean dire consequences for all gangs that participated in the uprising against order.
+*"But WYSIWYG makes play faster, communicating at a glance what every fighter is holding!"*
 
-## Pit Brawl
+Does it really? Nobody but the most dedicated, hardcore player, exhaustively versed in the lore of the game and the universe at large, could possibly tell from three feet away if a 1 inch tall figure is holding a las rifle or a plasma rifle. Even if you could, can you tell what kind of grenade it's holding? A Frag vs a Flash vs a Gas grenade will have radically different tactical implications. Same thing goes for a Stub Gun vs a Plasma Pistol.
 
-During Downtime, if they don't fight the Enforcers, players can each send a Champion to fight in an Enforcer-sponsored Pit Brawl for the entertainment of the rest of the Underhive! The winning gangs will be rewarded, with the top gang receiving several weeks of reprieve from taxes.
+What about armor? How are you going to model a Goliath fighter wearing mesh armor instead of the standard furnace plates? Or an Escher with a displacer field? Heck, if you didn't play Goliath, how would you even know what a Krumper Cannon looks like, let alone what the stats are?
 
-# Campaign End
+In all cases, it's far easier to just ask other players about loadouts, and freely examine other player's fighter cards. The "logical" argument in favor of WYSIWYG fall apart with even a little bit of thought.
 
-Once the final Takeover week is played, the only End of Week activity engaged in is Advancements. After that, Awards are distributed! The following awards are available to be claimed by gangs (in the event of a tie, both gangs receive the award): 
+If you enjoy modeling your fighters to match their cards, that's great! I would never dream of taking that aspect of the hobby away from you. If I had the time and money, I'd love to model a robot exoskeleton onto my triple-bionic ganger! However, forcing others do it just puts up a massive barrier - a huge investment of both time and money - preventing other players from enjoying the game with you. Why would you want do that?
 
-- Slum Lord Award: Held the most Territories at the end of the campaign
-- Scariest Award: Took the most enemy fighters Out of Action
-- Moneybags Award: Greatest wealth (Gang rating + Credits)
-- Upstanding Award: Highest Reputation
-- Body Count Award: Won a fight with the Enforcers 
+# Core Rules
 
-Additionally, individual fighters can receive the following awards: 
-- Baba Yaga award: Most enemy fighters taken Out of Action
-- Most Improved Award: Most advancements received over the campaign
-- Cotton Hill Award: Most Lasting Injuries
-- Big Spender Award: Highest Cost
+It's well known among the playing community that Underhive Skirmish Game's rules are kind of a mess, with almost a dozen books providing multiple versions of different rules, some of them contrary to each other, and none of them giving a satisfactory answer to many common rule interactions.
 
-The player with the most total Awards may be considered the "winner" of the campaign.
+Our group uses the "YCE" rules for core gameplay, available from [Yaktribe.Games](https://yaktribe.games). This ruleset is **short** (less than 60 pages total), accounts for many common situations, provide some key balancing and flavor solutions (Jump distance is determined by move range, not base size - finally, a nimble Escher can jump further than a clumsy Goliath!), and are broadly compatible with most official material (Some tactics cards require minor common-sense adaptations).
+
+I highly recommend the YCE rules, and while I have tried my best to make this campaign core-rule agnostic, if you ever run into something that doesn't quite make sense with the core rulebook, it's likely that this is where the issue lies.
+
+# KEY CHANGES
+
+If you've played lots of Underhive Skirmish Game, here are some notable rule changes to be aware of for Knifebuckets:
+
+- Hired Guns cost half their credit value to hire, but are only ever present for a single battle.
+- Pitch Black and Sneak Attack have been significantly reworked, to be more streamlined and hopefully a little more fun for participating players. See [Special Scenario Rules](specialscenariorules.md) for details.
+- When visiting the Trading Post, fighters may only buy a *single* item, not unlimited.
+- Champions cannot be hired, only promoted from lower ranking fighters (there is an exception if all Champions in a gang have died).
+- Fighters receive experience for many different actions (including simply showing up for battle!) and often receive much more than in the basic rules. Additionally, the way Advancements happen has been significantly reworked. See [Fighters](fighters.md) for details.
