@@ -182,7 +182,8 @@ Glowing with the heat and spattered with molten metal, a slag furnace smelts sla
 **Income:** The gang earns D6x5 credits from this Territory when collecting income.
 ### ENHANCED BOON
 **Reputation:** A Goliath gang adds +2 to its Reputation each week it controls this territory.
-Recruit: While collecting resources, the gang may roll 2D6. If either dice shows a 6, the gang may recruit a single Juve for free. If both dice show 6, the gang may recruit a Ganger or a Juve for free.
+
+**Recruit:** While collecting resources, the gang may roll 2D6. If either dice shows a 6, the gang may recruit a single Juve for free. If both dice show 6, the gang may recruit a Ganger or a Juve for free.
 
 
 # SLUDGE SEA
