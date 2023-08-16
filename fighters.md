@@ -28,23 +28,23 @@ Keep track of how many advancements each fighter has received! Advancements beco
 
 # ADVANCING GANGERS
 
-Ganger advancements cost 8XP each. Roll 2d6 and apply the results of the following table:
+Ganger advancements cost 8XP each, regardless of how many advancements they've previously made. Roll 2d6 and apply the results of the following table:
 
 | 2d6 | Advancement |
 |---|---|
-| 2 | The fighter becomes a Specialist. [Refund 2 XP](#refund). |
+| 2 | The fighter becomes a Specialist. [Refund 2 XP](#refund) and immediately make an advancement for them as a Specialist. |
 | 2-4 | Improve WS *or* BS by 1. Increase value by 20. |
 | 5-6 | Improve Strength *or* Toughness by 1. Increase value by 30. |
 | 7 | Improve Initiative by 1 *or* add 1" to Movement. Increase value by 10. |
 | 8-9 | Improve Willpower *or* Intelligence by 1. Increase value by 5. Refund 2 XP. |
 | 10-11| Improve Leadership or Cool by 1. Increase value by 5. Refund 2 XP. |
-| 12 | The fighter becomes a Specialist. Refund 2 XP. |
+| 12 | The fighter becomes a Specialist. [Refund 2 XP](#refund) and immediately make an advancement for them as a Specialist. |
 
 If the table result would result in a violation of Max Stats, treat it as a roll of 12.
 
 # ADVANCING ALL OTHER FIGHTERS
 
-Other fighters pay 5 XP for their first Advancement. For all fighters except Juves, add 1 XP to the cost that each previous advancement this fighter has made.
+Other fighters pay 5 XP for their first Advancement. For all fighters except Juves, add 1 XP to the cost for each previous advancement this fighter has made.
 
 > For example, a Juve's third advancement would still cost 5 credits. A Champion's third advancement would cost 7 credits - 5 for the bast cost, and 2 for the two Advancements it's already received.
 >
@@ -102,7 +102,7 @@ Movement, Strength, Toughness, Wounds, and Attacks cannot be improved by more th
 
 If a fighter is promoted such that their current stats violate their new max stats, they are not reduced to their new max, but cannot increase that stat any further.
 
-> For example, a Goliath Juve starts with a 5" move, then receives two Movement advancements, bringing them to a 6" move. They are then promoted to a Specialist, which ordinarily has a max Movement of 6". Their Movement stat is not reduced, but it can never be improved, either.
+> For example, a Goliath Juve starts with a 5" move, then receives two Movement advancements, bringing them to a 7" move. They are then promoted to a Specialist, which ordinarily has a max Movement of 6". Their Movement stat is not reduced, but it can never be improved, either.
 
 # PROMOTION
 
