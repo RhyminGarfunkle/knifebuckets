@@ -42,6 +42,8 @@ Ganger advancements cost 8XP each, regardless of how many advancements they've p
 
 If the table result would result in a violation of Max Stats, treat it as a roll of 12.
 
+When a Ganger becomes a Specialist, clear their advancement count. Their first advancement as a Specialist will only cost 5 XP, their next 6 XP, and so on.
+
 # ADVANCING ALL OTHER FIGHTERS
 
 Other fighters pay 5 XP for their first Advancement. For all fighters except Juves, add 1 XP to the cost for each previous advancement this fighter has made.
@@ -113,6 +115,8 @@ To promote a **Juve** to a Specialist, clear their advancement count (they retai
 **Specialists** may be promoted to Champion on an advancement roll of 12, or by paying double the XP cost. Gangs may not have more than 2 Champions - if the gang already has two Champions, the Specialist may not be promoted.
 
 **Champions** can only become Leaders when the Leader dies.
+
+Only Gangers and Juves clear their advancement count on promotion. Specialists retain their advancement count when promoted to Champion - if a Specialist had 3 advancements, their first advancement as a Champion would still cost 8 credits.
 
 # Permanent Injuries and Bionics
 
