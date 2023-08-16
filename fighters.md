@@ -113,3 +113,13 @@ To promote a **Juve** to a Specialist, clear their advancement count (they retai
 **Specialists** may be promoted to Champion on an advancement roll of 12, or by paying double the XP cost. Gangs may not have more than 2 Champions - if the gang already has two Champions, the Specialist may not be promoted.
 
 **Champions** can only become Leaders when the Leader dies.
+
+# Permanent Injuries and Bionics
+
+Stat reductions from permanent injuries can really mess up your gangers! These reductions can be mitigated, wholly or in part, by the installation of Bionics.
+
+Bionics can be purchased during the Trade action, and are **permanently assigned** to the fighter who received them. Most rules for Bionics are the same as in the core book, with one major exception:
+
+Fighters who receive a Bionic to "cure" their injuries **do not have their price increased** by the value of the bionic. Bionics don't make fighters better than they were before, they simply get fighters back up to speed. The bionic still must be purchased at full price.
+
+> The exception to this is with bionics installed from the Cybertechnikae territory, specifically when installed on an uninjured fighter to improve their stats. In this case, because the bionic improves them beyond their usual abilities, increase the fighter's cost by the cost of the bionic.
