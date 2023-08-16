@@ -32,13 +32,13 @@ Ganger advancements cost 8XP each, regardless of how many advancements they've p
 
 | 2d6 | Advancement |
 |---|---|
-| 2 | The fighter becomes a Specialist. [Refund 2 XP](#refund) and immediately make an advancement for them as a Specialist. |
+| 2 | The fighter becomes a Specialist. Pick one skill to learn from one of their Primary skillsets and increase their value by 20. |
 | 2-4 | Improve WS *or* BS by 1. Increase value by 20. |
 | 5-6 | Improve Strength *or* Toughness by 1. Increase value by 30. |
 | 7 | Improve Initiative by 1 *or* add 1" to Movement. Increase value by 10. |
 | 8-9 | Improve Willpower *or* Intelligence by 1. Increase value by 5. Refund 2 XP. |
 | 10-11| Improve Leadership or Cool by 1. Increase value by 5. Refund 2 XP. |
-| 12 | The fighter becomes a Specialist. [Refund 2 XP](#refund) and immediately make an advancement for them as a Specialist. |
+| 12 | The fighter becomes a Specialist. Pick one skill to learn from one of their Primary skillsets and increase their value by 20. |
 
 If the table result would result in a violation of Max Stats, treat it as a roll of 12.
 
