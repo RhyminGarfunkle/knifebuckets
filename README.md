@@ -43,7 +43,11 @@ Most players will only need to purchase a single box of gang miniatures.
 
 Most players will only need to purchase a single box of miniatures from their chosen gang, currently roughly $42 USD at most retailers. That's it! If a player's gang is *extremely successful* they may wish to purchase an additional box of fighters, but this won't be necessary for most players (even those with more than 10 fighters in their gang will likely never field that many in a single scenario, so may swap models to represent different fighters if they wish).
 
+One player will need several D6 (12 seems to be a good number), preferably in at least two colors, in addition to the special Necromunda dice (Scatter, Injury, and Ammo). You'll also need a collection of tokens to represent the various statuses and conditions of fighters. You'll have plenty of all of these if you purchased any official Underhive Skirmish Game starter sets. Otherwise dice and tokens are readily available at retail, or third party made versions are always for sale on Etsy or from various gaming retailers.
+
 Additionally, **at least one player will need to invest in terrain, and some additional miniatures,** in addition to the box of miniatures representing their gang. MDF terrain can be purchased at a steep discount from plastic - $200 of MDF terrain can provide as rich a play experience as several thousand dollars worth of plastic terrain. Many players enjoy simply playing on stacked together books and Lego!
+
+Tactics Cards can be difficult or extremely expensive to purchase. You can simply list them out and use any random selection method in lieu of drawning them. Alternately, you can have your own Tactics Cards made by manufacturers that specialize in small runs of custom cards - I had 150 tactics cards made for less than $40, including shipping from China. Just make sure that you don't ask the printers to print any art you don't have the rights to!
 
 Miniatures will be needed to represent the Enforcers and any Hired Guns in the campaign. Many Enforcers pull double-duty as Hired Guns.
 
