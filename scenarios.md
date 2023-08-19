@@ -129,9 +129,9 @@ There is no victor in this scenario. Alternatively, every player is a winner in 
 
 ### Rewards :id=invasionrewards <!-- {docsify-ignore} -->
 
-For each Loot casket claimed, the gang gains 2D6x10 credits. 
+For each Credit casket claimed, the gang gains 2D6x10 credits. 
   
-For each Credit casket, roll on the [Ammo Crate Table](tables.md#crates), and add the resulting equipment to your gang's Stash.
+For each Loot casket, roll on the [Ammo Crate Table](tables.md#crates), and add the resulting equipment to your gang's Stash.
 
 ### Experience<!-- {docsify-ignore} -->
 
