@@ -27,6 +27,8 @@ If you want to read more about what's different here from mainline Underhive Ski
 If you've played lots of Underhive Skirmish Game, here are some notable rule changes to be aware of for Knifebuckets:
 
 - When collecting territory resources, taxes are levied by the Enforcers for every territory a gang holds besides their initial Settlement.
+- Many actions that were previously done after every battle are instead resolved during the "End of Week" phase. This means gangs may need to fight two or more battles before collecting territory resources, purchasing equipment, etc.
+- During the End of Week, all fighters may swap out equipment - you're not locked to what the fighter had on gang creation!
 - Hired Guns cost half their credit value to hire, but are only ever present for a single battle - no rules to keep track of about if they'll stick around.
 - Pitch Black and Sneak Attack have been significantly reworked, to be more streamlined and hopefully a little more fun for participating players. See [Special Scenario Rules](specialscenariorules.md) for details.
 - When visiting the Trading Post, fighters may only buy a *single* item, not unlimited.
