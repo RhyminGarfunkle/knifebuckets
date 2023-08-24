@@ -71,7 +71,7 @@ They have the weapon Savage Bite:
 |------|-------|-------|-------|------|----|----|---|----|--------|
 | Savage Bite |   E   |   -   |   -   |  -   | S  | -2 | 1 | -  | Disarm |
 
-They are equipped with Light Carapace armor and a Respirator. 
+They are equipped with Light Carapace Armor. 
 
 They have the skill **Tenacious:** If the cyber-mastif is taken Out of Action, do not remove it from the board if it hasn't activated yet this round. Once it has completed its Activation, remove it from the board.
 
