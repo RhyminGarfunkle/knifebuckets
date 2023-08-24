@@ -74,3 +74,12 @@ When making an ammo check for a weapon with multiple profiles/ammos, you *must* 
 Template weapons auto hit any fighter who's base is under the template, **as long as there is no solid terrain between the attacker and the target.** This means that barricades and other "scatter" terrain is passed through, but if there are solid walls or floors between the attacker and the target, the attacker must be able to see at least a small portion of the target.
 
 The same goes for blast weapons, except you check visibility from the center of the blast, not the attacking fighter.
+
+# House Rules
+
+- **Run and Gun** cannot be used with weapons that use a Flame Template.
+
+- If a fighter has the **Insane** condition, they may roll the **Willpower Check** to lose it at the end of every activation, not just ones where they rolled a 4 or 5.
+
+- To use **Overseer** a fighter must first pass a Leadership check.
+

@@ -17,4 +17,5 @@ The Campaign
 * [Tables](tables.md)
 * [Terrain](terrain.md)
 * [Cyber-Mastiff Adoption Drive](cybermastiff.md)
+* [Wild Fighters](wildfighters.md)
 * [Common Rule Reference](commonrules.md)

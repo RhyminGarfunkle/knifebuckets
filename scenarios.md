@@ -99,6 +99,8 @@ Custom Selection (7)
 
 ### Deployment<!-- {docsify-ignore} -->
 
+This scenario may **not** use Wild Fighters.
+
 [Standard.](#standarddeployment)
 
 Before any player deploys their fighters, players must first place the Ammo and Loot caskets that they will fight over on the board.
@@ -399,9 +401,9 @@ The Uphiver only leaves the battlefield if they're Extracted or killed. Even if 
 
 The Uphiver has the following stats:
 
-| WS | BS | M | S | T | I  | A  | Ld | Cl | Wl | Int | W |
-|----|----|---|---|---|----|----|----|----|----|-----|---|
-| 5+ | 4+ | 5 | 3 | 3 | 4+ | 1+ | 8+ | 6+ | 7+ | 7+  | 2 |
+| M | WS | BS | S | T | I  | A  | W | Ld | Cl | Wl | Int |
+|---|----|----|---|---|----|----|---|----|----|----|-----|
+| 5 | 5+ | 4+ | 3 | 3 | 3+ | 1+ | 2 | 8+ | 6+ | 7+ | 7+  |
 
 The Uphiver is equipped with a laspistol, mesh armor, and a displacer field. They have the Spring Up skill.
 
@@ -477,6 +479,8 @@ One of your fighters was taken captive - it's time to take them back! This scena
 [Standard](#standardbattlefield). The Defender may select the terrain type, and has the Home Turf advantage.
 
 ### Crews<!-- {docsify-ignore} -->
+
+This scenario may **not** use Wild Fighters.
 
 Defenders use Custom Selection (5). Leaders and Champions **cannot** be part of the Defender's starting crew. All fighters not selected for battle (and not in recovery, captive, or unable to fight for some other reason) are put to the side as Reinforcements. 
 
@@ -574,6 +578,8 @@ Gangs may not use any Underdog cards in this scenario.
 
 ### Deployment<!-- {docsify-ignore} -->
 
+This scenario may **not** use Wild Fighters.
+
 First, Gang players each select up to D3 fighters to be inside men - these fighters are placed inside the Precinct cells. Over the course of the battle they may attempt to bust out, assaulting the Precinct from within.
 
 Then, the Enforcer places half their fighters (rounding up) anywhere inside the precinct.
@@ -652,6 +658,8 @@ Each gang selects a single Champion.
 No tactics cards. Additionally, any territory boons that provide an in-battle effect may not be used.
 
 ### Deployment<!-- {docsify-ignore} -->
+
+This scenario may **not** use Wild Fighters.
 
 Fighters are deployed equidistantly around the edge of the fighting pit.
 
